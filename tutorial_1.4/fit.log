@@ -1,0 +1,71 @@
+
+
+*******************************************************************************
+Sat Jul 24 19:00:45 2021
+
+
+FIT:    data read from "S12.dat" u 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a+b/x+c/x^2
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Sat Jul 24 19:01:35 2021
+
+
+FIT:    data read from "S12.dat" u 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)=a+b/x+c/x**2
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 3.6394651925e+00   0.00e+00  5.78e-01    1.000000e+00   1.000000e+00   1.000000e+00
+   7 6.7387867833e-03  -9.91e-04  5.78e-08    1.594190e-01  -4.566604e+00   1.037297e+02
+
+After 7 iterations the fit converged.
+final sum of squares of residuals : 0.00673879
+rel. change during last iteration : -9.91043e-09
+
+degrees of freedom    (FIT_NDF)                        : 2
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0580465
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00336939
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = 0.159419         +/- 1.537        (964.4%)
+b               = -4.5666          +/- 59.88        (1311%)
+c               = 103.73           +/- 573.2        (552.6%)
+
+correlation matrix of the fit parameters:
+                a      b      c      
+a               1.000 
+b              -0.998  1.000 
+c               0.993 -0.998  1.000 
+
+
+*******************************************************************************
+Sat Jul 24 19:05:42 2021
+
+
+FIT:    data read from "S12.dat" u 1:2
+        format = x:z
+        #datapoints = 5
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x)= a+b*exp(-c*x)
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b             c            
+   0 2.6612401865e-02   0.00e+00  9.20e-02    1.594190e-01  -4.566604e+00   1.037297e+02
+BREAK: Singular matrix in Invert_RtR

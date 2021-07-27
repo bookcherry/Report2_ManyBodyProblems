@@ -1,0 +1,5 @@
+initial sz : Sun Jul 25 08:34:44 2021
+num_threads==6
+omp parallel sz starts: Sun Jul 25 08:34:44 2021
+mid omp parallel sz : Sun Jul 25 08:34:44 2021
+omp parallel sz finishes: Sun Jul 25 08:34:44 2021

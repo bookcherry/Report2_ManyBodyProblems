@@ -1,0 +1,20 @@
+Read File starts:   Sun Jul 25 08:34:29 2021
+Read File finishes: Sun Jul 25 08:34:29 2021
+initial sz : Sun Jul 25 08:34:44 2021
+omp parallel sz starts: Sun Jul 25 08:34:44 2021
+mid omp parallel sz : Sun Jul 25 08:34:44 2021
+omp parallel sz finishes: Sun Jul 25 08:34:44 2021
+diagonal calculation starts:   Sun Jul 25 08:34:44 2021
+diagonal calculation finishes: Sun Jul 25 08:34:55 2021
+Lanczos Eigen Value start:    Sun Jul 25 08:34:55 2021
+  0 th Lanczos step: Sun Jul 25 08:35:57 2021
+  1 th Lanczos step: Sun Jul 25 08:36:58 2021
+  2 th Lanczos step: Sun Jul 25 08:38:00 2021
+  3 th Lanczos step: Sun Jul 25 08:39:02 2021
+  4 th Lanczos step: Sun Jul 25 08:40:05 2021
+  5 th Lanczos step: Sun Jul 25 08:41:08 2021
+  6 th Lanczos step: Sun Jul 25 08:42:11 2021
+  7 th Lanczos step: Sun Jul 25 08:43:17 2021
+  8 th Lanczos step: Sun Jul 25 08:44:22 2021
+  9 th Lanczos step: Sun Jul 25 08:45:27 2021
+ 10 th Lanczos step: Sun Jul 25 08:46:30 2021
